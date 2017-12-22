@@ -52,8 +52,6 @@ namespace ConsoleApp2
             }
 
             return plainText;
-
-            Console.WriteLine(encryptedText);
         }
 
         public static string Encrypt(string plainText, string passPhrase)
@@ -85,8 +83,6 @@ namespace ConsoleApp2
             }
 
             return encryptedText;
-
-            Console.WriteLine(encryptedText);
         }
     }
 }

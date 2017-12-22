@@ -30,6 +30,7 @@ namespace ConsoleApp2
             catch(Exception e)
             {
                 Console.Write(e.Message);
+                //
             }
 
         }
